@@ -10,9 +10,6 @@ function setGradient() {
 
 
 }
-function pressMe() {
-	alert("hi");
-}
 
 color1.addEventListener("input", setGradient);
 
